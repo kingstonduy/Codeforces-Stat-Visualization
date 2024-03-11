@@ -1,4 +1,4 @@
-I'm Backend developer who is interested in problem solving and apply efficient architecture to optimize the performance of the system.
+![image](https://github.com/kingstonduy/kingstonduy/assets/72697258/4c5c012e-9a5e-461d-a965-adec9043a453)I'm Backend developer who is interested in problem solving and apply efficient architecture to optimize the performance of the system.
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🌱 Currently working at [OCB](https://www.ocb.com.vn/)
 - 🎓 Studying Engineering of Computer Science in International University - VNU-HCM
@@ -23,7 +23,7 @@ I'm Backend developer who is interested in problem solving and apply efficient a
 
 <p align="center">
   <img height="190em" src="https://zeynalmardanli-leetcode-stats.vercel.app/dark/user3213Z"/>
-  <img height="190em" src="https://raw.githubusercontent.com/kingstonduy/kingstonduy/f45ade9deb9fea536301d972fbb3fb439e8401f5/output/light_card.svg#gh-dark-mode-only"/>
+  <img height="190em" src="https://raw.githubusercontent.com/kingstonduy/kingstonduy/d20e82106ec2044ff146b950eda918fc36569948/output/light_card.svg#gh-dark-mode-only"/>
 </p>
   
 
@@ -31,7 +31,7 @@ I'm Backend developer who is interested in problem solving and apply efficient a
 
 ## 📫 How to reach me:
 <p align="center">
-  <code><a href="https://www.linkedin.com/in/duongkhanhduy"><img width="30px" src="./images/linkedin.png" title="Linkedin"/></a></code>
+  	<code><a href="https://www.linkedin.com/in/duongkhanhduy"><img width="30px" src="./images/linkedin.png" title="Linkedin"/></a></code>
 	<code><a href="mailto:kingstonduy.duong@gmail.com"><img width="30px" src="./images/gmail.png" title="Gmail"/></a></code>
 	<code><a href="https://www.facebook.com/kduyyy/"><img width="30px" src="./images/facebook.png" title="Facebôk"/></a></code>
 </p>
