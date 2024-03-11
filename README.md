@@ -1,4 +1,4 @@
-![image](https://github.com/kingstonduy/kingstonduy/assets/72697258/4c5c012e-9a5e-461d-a965-adec9043a453)I'm Backend developer who is interested in problem solving and apply efficient architecture to optimize the performance of the system.
+I'm Backend developer who is interested in problem solving and apply efficient architecture to optimize the performance of the system.
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🌱 Currently working at [OCB](https://www.ocb.com.vn/)
 - 🎓 Studying Engineering of Computer Science in International University - VNU-HCM
