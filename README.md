@@ -19,11 +19,11 @@ I'm Backend developer who is interested in problem solving and apply efficient a
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 
-## 📊  Profile Stats
+## 📊 CP Profile Stats
 
 <p align="center">
   <img height="190em" src="https://zeynalmardanli-leetcode-stats.vercel.app/dark/user3213Z"/>
-  <img height="190em" src="https://raw.githubusercontent.com/kingstonduy/Codeforces-Stat-Visualization/00bcd0ecff196c8771657abf565b285f2a7c690d/output/light_card.svg#gh-dark-mode-only"/>
+  <img height="190em" src="https://raw.githubusercontent.com/kingstonduy/kingstonduy/f45ade9deb9fea536301d972fbb3fb439e8401f5/output/light_card.svg#gh-dark-mode-only"/>
 </p>
   
 
