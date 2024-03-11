@@ -23,10 +23,11 @@ I'm Backend developer who is interested in problem solving and apply efficient a
 
 <p align="center">
   <img height="190em" src="https://zeynalmardanli-leetcode-stats.vercel.app/dark/user3213Z"/>
-  <img height="190em" src="https://raw.githubusercontent.com/kingstonduy/kingstonduy/d20e82106ec2044ff146b950eda918fc36569948/output/light_card.svg#gh-dark-mode-only"/>
-</p>
   
+	
+   <img height="190em" src="https://raw.githubusercontent.com/kingstonduy/kingstonduy/fb803aab406f4485f630461894ca2f65a7bc5a93/output/light_card.svg"/>
 
+</p>
 
 
 ## 📫 How to reach me:
@@ -35,4 +36,3 @@ I'm Backend developer who is interested in problem solving and apply efficient a
 	<code><a href="mailto:kingstonduy.duong@gmail.com"><img width="30px" src="./images/gmail.png" title="Gmail"/></a></code>
 	<code><a href="https://www.facebook.com/kduyyy/"><img width="30px" src="./images/facebook.png" title="Facebôk"/></a></code>
 </p>
-
