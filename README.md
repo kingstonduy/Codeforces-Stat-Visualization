@@ -1,58 +1,38 @@
-# Codeforces Stat Visualization
+I'm Backend developer who is interested in problem solving and apply efficient architecture to optimize the performance of the system.
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+- 🌱 Currently working at [OCB](https://www.ocb.com.vn/)
+- 🎓 Studying Engineering of Computer Science in International University - VNU-HCM
+- 🔭 I’m working on migrating monolith to microservices with reactive manifesto
+## ⚡ Technologies
+- Frontend: **HTML/CSS, ReactJs**
+- Backend: **Go, Java**
+- Database: **MySQL, Microsoft SQL Server, Oracle, Postgres, Redis, Elastic**
+- Message queue: **Kafka, RabbitMQ**
+- Framework: **Temporal, Spring/Springboot, fiber, gin, fx**
 
-<a href="https://github.com/sudiptob2/cf-stats">
-<img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
-<img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg" />
-</a>
-<br/>
-<a href="https://github.com/sudiptob2/cf-stats">
-<img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/max_rating.svg" />
-<img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" />
-</a>
+## 📊 GitHub Profile Stats
 
-# Installation
+<p align="center">
+  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kingstonduy&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kingstonduy&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+<br>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
 
-### For step-by-step screenshots go [here](docs/INSTALLATIONSTEPS.md) 
-### Video Demonstration
-  - [Hindi](https://www.youtube.com/watch?v=lPASqH0ZoIc)
+## 📊  Profile Stats
 
-1. Star this repository :pray:
-2. Create a copy of this repository by clicking
-   [here](https://github.com/sudiptob2/cf-stats/generate). Note: this is
-   **not** the same as forking a copy because it copies everything fresh,
-   without the huge commit history.
-3. Goto [config/.env.template](config/.env.template) and put your codeforces handle in the `CF_HANDLE` key.
-4. Go to the [Actions Page](../../actions?query=workflow%3A"Generate+Stats+Images") and press "Run Workflow" on the
-   right side of the screen to generate images for the first time.
-    - The images will be automatically regenerated every 24 hours, but they can
-      be regenerated manually by running the workflow this way.
-5. Take a look at the images that have been created in the
-   [`output`](output) folder.
-6. To add your statistics to your GitHub Profile README, copy and paste the
-   following lines of code into your markdown content. Change the `your-github-username`
-   value to your GitHub username.
+<p align="center">
+  <img height="190em" src="https://zeynalmardanli-leetcode-stats.vercel.app/dark/user3213Z"/>
+  <img height="190em" src="https://raw.githubusercontent.com/kingstonduy/Codeforces-Stat-Visualization/00bcd0ecff196c8771657abf565b285f2a7c690d/output/light_card.svg#gh-dark-mode-only"/>
+</p>
+  
 
-   ```md
-   ![](https://raw.githubusercontent.com/your-github-username/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
-   ![](https://raw.githubusercontent.com/your-github-username/cf-stats/main/output/light_card.svg)
-   ```
-   ```md
-   ![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/max_rating.svg)
-   ![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg)
-   ```
 
-# Contribution guideline
 
-If you like this project and want to improve by adding features, fixing bugs or anything, please follow
-the [contributing guidelines](docs/CONTRIBUTING.md).
+## 📫 How to reach me:
+<p align="center">
+  <code><a href="https://www.linkedin.com/in/duongkhanhduy"><img width="30px" src="./images/linkedin.png" title="Linkedin"/></a></code>
+	<code><a href="mailto:kingstonduy.duong@gmail.com"><img width="30px" src="./images/gmail.png" title="Gmail"/></a></code>
+	<code><a href="https://www.facebook.com/kduyyy/"><img width="30px" src="./images/facebook.png" title="Facebôk"/></a></code>
+</p>
 
-# Acknowledgments
-
-### Contributors List
-
-- [Sudipto](https://github.com/sudiptob2)
-- [Nazmul](https://github.com/nazmulweb)
-- [Manish](https://github.com/csemanish12)
-
-### Inspiration
-This project is heavily inspired by [github-stats](https://github.com/jstrieb/github-stats) project
