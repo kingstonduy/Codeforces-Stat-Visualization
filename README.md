@@ -22,7 +22,7 @@ I'm Backend developer who is interested in problem solving and apply efficient a
 ## 📊 CP Profile Stats
 
 <p align="center">
-  <img height="190em" src="https://zeynalmardanli-leetcode-stats.vercel.app/dark/user3213Z"/>
+  <img height="190em" src="https://zeynalmardanli-leetcode-stats.vercel.app/dark/kingstonduy"/>
   
 	
    <img height="190em" src="https://raw.githubusercontent.com/kingstonduy/kingstonduy/fb803aab406f4485f630461894ca2f65a7bc5a93/output/light_card.svg"/>
